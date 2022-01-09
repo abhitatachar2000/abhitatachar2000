@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://abhishektatachar.medium.com/](https://abhishektatachar.medium.com/)
 
-- 💬 Ask me about **OpenCV and Python**
+- 💬 Ask me about **Machine Learning and Python**
 
 - 📫 How to reach me **abhishektatachar@gmail.com**
 
