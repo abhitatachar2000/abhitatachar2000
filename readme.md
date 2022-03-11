@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektatachar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishektatachar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishektatachar" alt="abhishektatachar" /></a> </p>
 
 - 🔭 I’m currently working on [Image Processing](https://github.com/abhitatachar2000/ImageProcessing)
 
