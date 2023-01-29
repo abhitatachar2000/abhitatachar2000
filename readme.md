@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/@abhitatachar" target="blank"><img src="https://img.shields.io/twitter/follow/@abhitatachar?logo=twitter&style=for-the-badge" alt="@abhitatachar" /></a> </p>
 
+- 🔭 A **python, machine learning and AI enthusiast**
+
 - 🌱 I’m currently learning **Version control, Devops CI/CD, and Docker and Containers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhitatachar2000](https://github.com/abhitatachar2000)
