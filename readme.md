@@ -1,18 +1,16 @@
 <h1 align="center">Hello, I'm Abhishek V Tatachar</h1>
-<h3 align="center">Undergraduate Student at Global Academy of Technology | AI and Computer Vision Enthusiast | Author - Falling For Programming</h3>
+<h3 align="center">Scholar at SAP Labs | AI and Computer Vision Enthusiast | Author - Falling For Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektatachar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishektatachar" /> </p>
 
 
-- 🔭 I’m currently working on [Image Processing](https://github.com/abhitatachar2000/ImageProcessing)
+- 🔭 Python, Machine Learning and Artificial Intelligence Enthusiast
 
-- 🌱 I’m currently learning **OpenCV, TensorFloe**
+- 🌱 I’m currently learning **Version Control, CI/CD, Docker and contianers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhitatachar2000](https://github.com/abhitatachar2000)
 
 - 📝 I regularly write articles on [https://abhishektatachar.medium.com/](https://abhishektatachar.medium.com/)
-
-- 💬 Ask me about **Artificial Intelligence, Computer Vision, Machine Learning**
 
 - 📫 How to reach me **abhishektatachar@gmail.com**
 
