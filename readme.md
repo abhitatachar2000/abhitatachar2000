@@ -1,25 +1,18 @@
 <img align="center" href="https://github.com/abhitatachar2000" src="./images/name.png" alt="@abhitatachar" />
 
-<h3 align="center">Full Stack Cloud Engineer at SAP | AWS Certified Solutions Architect | System Design Specialist</h3>
+<h2 align="center">Full Stack Cloud Engineer at SAP | AWS Solutions Architect | System Design Specialist</h2>
 
+<h3>About Me</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektatachar2000&label=Profile%20views&color=0e75b6&style=flat" alt="abhishektatachar2000" /> </p>
+<p>I am a Full Stack Developer at SAP with over 3 years of experience building scalable, cloud-native SaaS applications. I focus on developing solutions that align with business needs while placing customer success at the heart of every innovation. I pay close attention to design principles and quality attributes such as scalability, performance, functional correctness, and long-term maintainability to ensure the applications I build are future-proof and reliable.</p>
 
-<p align="left"> <a href="https://twitter.com/@abhitatachar" target="blank"><img src="https://img.shields.io/twitter/follow/@abhitatachar?logo=twitter&style=for-the-badge" alt="@abhitatachar" /></a> </p>
+<p>Academically, I hold an M.Tech in Software Engineering from BITS Pilani and have completed a specialisation in System Design and Architecture from the University of Alberta, delivered via Coursera. These programs strengthened my understanding of distributed systems, design patterns, system thinking, and scalable architectures, all of which I actively apply in day-to-day development. My academic foundation complements my hands-on experience, enabling me to approach problems holistically and make sound technical decisions.</p>
 
-- 🔭 A **python, machine learning and AI enthusiast**
+<p>Technically, I work across a wide stack that includes JavaScript, TypeScript, Python, Java, and Bash. I build modern web applications using frameworks like React.js, Next.js, SAP UI5, and Fiori Elements, and develop RESTful APIs using Spring Boot, FastAPI, and Node.js, with additional experience in GraphQL. I am proficient in working with relational and NoSQL databases such as PostgreSQL, MongoDB, MySQL, Firebase, and Chroma (for vector-based storage). My DevOps skill set includes Docker, Kubernetes, and Helm for containerizing applications; Jenkins and Azure DevOps for CI/CD; and observability tools like Kibana, Dynatrace, and OpenTelemetry. I use Terraform for Infrastructure as Code and work across major cloud platforms including SAP BTP and AWS. I am a certified AWS Solutions Architect and an SAP Certified Cloud Native Developer. I prioritize clean architecture, modular design, and scalable, resilient systems. Additionally, I bring hands-on experience with serverless computing, event-driven architectures, and secure, zero-downtime deployments.</p>
 
-- 🌱 I’m currently learning **Version control, Devops CI/CD, and Docker and Containers**
+<p>I also bring practical AI/ML capabilities using TensorFlow, Scikit-Learn, HuggingFace, Langchain, and OpenAI APIs, especially in building intelligent features with NLP and Retrieval-Augmented Generation (RAG). This allows me to incorporate smart AI driven components into applications where they add real value.</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhitatachar2000](https://github.com/abhitatachar2000)
-
-- 📝 I regularly write articles on [https://abhishektatachar.medium.com/](https://abhishektatachar.medium.com/)
-
-- 📫 How to reach me **abhishektatachar@gmail.com**
-
-- 📄 Know about my experiences [abhishekvtatachar.web.app](abhishekvtatachar.web.app)
-
-- ⚡ Crux **Skilled Python developer with a passion for using this language to create innovative solutions. Continuously improving my skills and staying current in the field**
+<p>As I grow into more senior roles, I not only bring strong technical depth but also leadership and soft skills including structured thinking, effective communication, mentoring, and stakeholder collaboration. I take ownership of end-to-end delivery and thrive in agile environments, contributing to both product vision and execution. I'm passionate about building reliable, secure, and scalable solutions that create long-term business value, blending technology, design, and strategy into every solution I deliver.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
