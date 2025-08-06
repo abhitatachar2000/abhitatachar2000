@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek V Tatachar</h1>
 <h3 align="center">Scholar at SAP Labs | MTech at BITS Pilani | Author - Falling for programming</h3>
 
+<img align="center" src="./images/3-removebg-preview.png" alt="@abhitatachar" height="30" width="40" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektatachar2000&label=Profile%20views&color=0e75b6&style=flat" alt="abhishektatachar2000" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@abhitatachar" target="blank"><img src="https://img.shields.io/twitter/follow/@abhitatachar?logo=twitter&style=for-the-badge" alt="@abhitatachar" /></a> </p>
