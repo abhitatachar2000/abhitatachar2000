@@ -14,6 +14,20 @@
 
 <p>As I grow into more senior roles, I not only bring strong technical depth but also leadership and soft skills including structured thinking, effective communication, mentoring, and stakeholder collaboration. I take ownership of end-to-end delivery and thrive in agile environments, contributing to both product vision and execution. I'm passionate about building reliable, secure, and scalable solutions that create long-term business value, blending technology, design, and strategy into every solution I deliver.</p>
 
+<h3>Projects</h3>
+
+<h3>Papers</h3>
+
+<h3>Blogs</h3>
+
+<h3>Skills</h3>
+
+<h3>Stats</h3>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhitatachar2000&show_icons=true&theme=default&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhitatachar2000&layout=compact&theme=default)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abhitatachar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhitatachar" height="30" width="40" /></a>
