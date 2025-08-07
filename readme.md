@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=order-management-system&theme=default" alt="Repo card" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=portfolio-ts&theme=default%22%20alt=%22Repo%20card" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=dockerize-chromadb&theme=default" alt="Repo card" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=Kubernetes-Starter&theme=default" alt="Repo card" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=Kubernetes-Starter" alt="Repo card" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=Python101&theme=default" alt="Repo card" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=ImageProcessing&theme=default" alt="Repo card" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=ProjectDaksha&theme=default" alt="Repo card" height="150"/>
