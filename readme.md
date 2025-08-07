@@ -1,4 +1,4 @@
-<img align="center" href="https://github.com/abhitatachar2000" src="./images/3.png" alt="@abhitatachar" />
+<img align="center" href="https://github.com/abhitatachar2000" src="./images/1-removebg-preview.png" alt="@abhitatachar" />
 
 <h2 align="center">Full Stack Cloud Engineer at SAP | AWS Solutions Architect | System Design Specialist</h2>
 
