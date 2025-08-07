@@ -16,6 +16,19 @@
 
 <h3>Projects</h3>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=order-management-system&theme=default" alt="Repo card" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=Kubernetes-Starter&theme=default" alt="Repo card" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=dockerize-chromadb&theme=default" alt="Repo card" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=portfolio-ts&theme=default" alt="Repo card" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=Python101&theme=default" alt="Repo card" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=ImageProcessing&theme=default" alt="Repo card" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=ProjectDaksha&theme=default" alt="Repo card" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=Supply-Chain-Management-DBMS-Project&theme=default" alt="Repo card" height="150"/>
+</p>
+
+
+
 <h3>Papers</h3>
 
 <h3>Blogs</h3>
@@ -24,9 +37,12 @@
 
 <h3>Stats</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhitatachar2000&show_icons=true&theme=default&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhitatachar2000&layout=compact&theme=default)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhitatachar2000" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhitatachar2000&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
