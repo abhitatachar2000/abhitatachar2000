@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=Python101&theme=default" alt="Repo card" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=ImageProcessing&theme=default" alt="Repo card" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=ProjectDaksha&theme=default" alt="Repo card" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=Supply-Chain-Management-DBMS-Project&theme=default" alt="Repo card" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhitatachar2000&repo=Supply-Chain-Management-System" alt="Repo card" height="150"/>
 </p>
 
 
