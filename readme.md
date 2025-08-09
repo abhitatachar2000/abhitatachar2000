@@ -31,14 +31,88 @@
 
 <h3>Papers</h3>
 
+- 📄 <b><a href="https://www.ijert.org/a-secured-surveillance-system-employing-dense-optical-flow-estimation">A Secured Surveillance System Employing Dense Optical Flow Estimation</a></b> — International Journal of Engineering Research & Technology, 2022, Vol 11, Issue 7.  
+- 📄 <b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0sug9-kAAAAJ&citation_for_view=0sug9-kAAAAJ:qjMakFHDy7sC">Comparative Assessment of Regression Models Based On Model Evaluation Metrics</a></b> — International Research Journal of Engineering and Technology, 2021, Vol 8, Issue 9.
+- 📄 <b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0sug9-kAAAAJ&citation_for_view=0sug9-kAAAAJ:2osOgNQ5qMEC">Zigbee, It’s Applications and Comparison with Other Short Range Network Technologies</a></b> — International Journal of Engineering Research & Technology, 2021, Vol 10, Issue 6.  
+- 📄 <b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0sug9-kAAAAJ&citation_for_view=0sug9-kAAAAJ:9yKSN-GCB0IC">Recommendations For The Best Communication Technologies For Automated Systems In Urban And Rural Environments</a></b> — International Research Journal of Engineering and Technology, 2021, Vol 8, Issue 5.
+- 📄 <b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0sug9-kAAAAJ&citation_for_view=0sug9-kAAAAJ:d1gkVwhDpl0C">Ideal Communication Facilities for Smart Irrigation Systems in Short Range and Long Range Scenarios</a></b> — Journal of Signal Processing, 2021, Vol 7, Issue 2.  
+- 📄 <b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0sug9-kAAAAJ&citation_for_view=0sug9-kAAAAJ:u-x6o8ySG0sC">An Automated Attendance System Based on the Concept of Histogram of oriented gradients</a></b> — Journal of Image Processing and Artificial Intelligence, 2020, Vol 6, Issue 3. 
+
+
 <h3>Blogs</h3>
 
+- <b><a href="https://medium.com/@abhishektatachar/run-chroma-db-on-a-local-machine-and-as-a-docker-container-a9d4b91d2a97">Run Chroma DB on a local machine and as a Docker container.</a></b>
+- <b><a href="https://abhishektatachar.medium.com/an-approach-to-learn-a-programming-language-af6fd8b18aed">An approach to learn a programming language.</a></b>
+
 <h3>Skills</h3>
+
+<p align="left">
+  <!-- Programming and Scripting Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" height="50" />
+
+<!-- Web Development -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50" height="50" />
+
+<!-- Database Management -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" />
+<img src="https://brandlogos.net/wp-content/uploads/2025/06/chroma-logo_brandlogos.net_1z1qk-512x339.png" width="50" height="50" />
+
+<!-- API Design, Development and Documentation -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" />
+<img src="https://www.svgrepo.com/show/342276/swagger.svg" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="50" height="50" />
+
+<!-- DevOps & Version Control -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="50" height="50" />
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png?f=webp" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="50" height="50" />
+<img src="https://www.svgrepo.com/show/306187/helm.svg" width="50" height="50" />
+<img src="https://freesvg.org/img/elastic-kibana-fw.png" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="50" height="50" />
+<img src="https://www.svgrepo.com/show/353681/dynatrace-icon.svg" width="50" height="50" />
+<img src="https://www.svgrepo.com/show/353933/jfrog.svg" width="50" height="50" />
+<img src="https://it-nova.co/wp-content/uploads/SAP-BTP.png" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50" />
+
+<!-- AI & Machine Learning -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="50" height="50" />
+<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" width="50" height="50" />
+
+<!-- Data Analysis & Visualization -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50" height="50" />
+<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="50" height="50" />
+
+<!-- Project Management -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" width="50" height="50" />
+<img src="https://www.svgrepo.com/show/353597/confluence.svg" width="50" height="50" />
+</p>
 
 <h3>Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhitatachar2000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhitatachar2000"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhitatachar2000&layout=compact&langs_count=8&card_width=320" />
@@ -52,7 +126,3 @@
 <a href="https://medium.com/@abhishektatachar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhishektatachar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhishektatachar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishektatachar" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
