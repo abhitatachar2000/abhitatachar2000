@@ -96,14 +96,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" hspace="5" vspace="5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="50" height="50" hspace="5" vspace="5" />
 <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="50" height="50" hspace="5" vspace="5" />
-<img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAg1AAZAA0" width="50" height="50" hspace="5" vspace="5" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" width="50" height="50" hspace="5" vspace="5" />
 
 <!-- Data Analysis & Visualization -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" hspace="5" vspace="5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" hspace="5" vspace="5" />
 <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50" height="50" hspace="5" vspace="5" />
-<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" width="50" height="50" hspace="5" vspace="5" />
 
 <!-- Project Management -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" width="50" height="50" hspace="5" vspace="5" />
