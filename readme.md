@@ -48,66 +48,68 @@
 
 <p align="left">
   <!-- Programming and Scripting Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" height="50" hspace="5" vspace="5" />
 
 <!-- Web Development -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" />
-<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50" height="50" hspace="5" vspace="5" />
 
 <!-- Database Management -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" />
-<img src="https://brandlogos.net/wp-content/uploads/2025/06/chroma-logo_brandlogos.net_1z1qk-512x339.png" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://brandlogos.net/wp-content/uploads/2025/06/chroma-logo_brandlogos.net_1z1qk-512x339.png" width="50" height="50" hspace="5" vspace="5" />
 
 <!-- API Design, Development and Documentation -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" />
-<img src="https://www.svgrepo.com/show/342276/swagger.svg" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://www.svgrepo.com/show/342276/swagger.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="50" height="50" hspace="5" vspace="5" />
 
 <!-- DevOps & Version Control -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="50" height="50" />
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png?f=webp" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="50" height="50" />
-<img src="https://www.svgrepo.com/show/306187/helm.svg" width="50" height="50" />
-<img src="https://freesvg.org/img/elastic-kibana-fw.png" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="50" height="50" />
-<img src="https://www.svgrepo.com/show/353681/dynatrace-icon.svg" width="50" height="50" />
-<img src="https://www.svgrepo.com/show/353933/jfrog.svg" width="50" height="50" />
-<img src="https://it-nova.co/wp-content/uploads/SAP-BTP.png" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png?f=webp" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://www.svgrepo.com/show/306187/helm.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://freesvg.org/img/elastic-kibana-fw.png" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://www.svgrepo.com/show/353681/dynatrace-icon.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://www.svgrepo.com/show/353933/jfrog.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://it-nova.co/wp-content/uploads/SAP-BTP.png" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50" hspace="5" vspace="5" />
 
 <!-- AI & Machine Learning -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="50" height="50" />
-<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" width="50" height="50" hspace="5" vspace="5" />
 
 <!-- Data Analysis & Visualization -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50" height="50" />
-<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="50" height="50" hspace="5" vspace="5" />
 
 <!-- Project Management -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" width="50" height="50" />
-<img src="https://www.svgrepo.com/show/353597/confluence.svg" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" width="50" height="50" hspace="5" vspace="5" />
+<img src="https://www.svgrepo.com/show/353597/confluence.svg" width="50" height="50" hspace="5" vspace="5" />
 </p>
+
 
 <h3>Stats</h3>
 
